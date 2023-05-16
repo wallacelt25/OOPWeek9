@@ -34,7 +34,7 @@ d)The following statement is the output of the code:
 
 e)
 public double calcTotalSales() {
-    double total = 0.0;
+    double total = 0;
     for (Sales sale: salesHistory) {
       if (sale !=null) {
         totalSales += sale.getValue() * sale.getQuantity();
