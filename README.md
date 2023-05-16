@@ -71,5 +71,11 @@ g)public static boolean addSales(Sales sale, String id, SalesPerson[] salesPeopl
 }
 
 h)
+SalesPerson class:
+New instances can be creasted to track sales and implementation of method to define parameters
+Sales class:
+Add instances to store common details of a sale (date,amount product)
+
+i) Polymorphism in this suite of programs is used to achieve flexibility and extensibility. It allows developers to have a simple r way in handling the programs.
 
 
